@@ -19,7 +19,6 @@ GrowJoy is a frontend website project designed to make plant care easier and mor
 
 - HTML5
 - CSS3
-- JavaScript, if included in the project
 
 ## Project Folder Structure
 
